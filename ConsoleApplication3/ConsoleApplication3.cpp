@@ -7,6 +7,9 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "How are you?";
+    cout << "fine? good";
+    cout << "Vlabsja";
+
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
