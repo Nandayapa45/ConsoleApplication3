@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+    cout << "How are you?";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
