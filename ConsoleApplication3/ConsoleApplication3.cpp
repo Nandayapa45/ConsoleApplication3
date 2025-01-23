@@ -8,7 +8,7 @@ int main()
     cout << "Hello World!\n";
     cout << "How are you?";
     cout << "fine? good";
-    cout << "Vlabsja";
+    
 
 }
 
